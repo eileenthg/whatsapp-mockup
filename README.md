@@ -1,5 +1,5 @@
 # whatsapp-mockup
-Java mockup of the WhatsApp interface using Model-View-Controller (MVC) paradigm.
+Java mockup of the WhatsApp interface using Model-View-Controller (MVC) paradigm. Included here is a part of the program that deals with direct messages and group messages. Other functions are handled by other group members.
 
 Made for final project in Object-Oriented Software Engineering degree course.
 
